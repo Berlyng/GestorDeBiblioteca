@@ -1,0 +1,7 @@
+C:\Proyecto c#\Gestion de biblioteca\bin\Debug\Gestion de biblioteca.exe.config
+C:\Proyecto c#\Gestion de biblioteca\bin\Debug\Gestion de biblioteca.exe
+C:\Proyecto c#\Gestion de biblioteca\bin\Debug\Gestion de biblioteca.pdb
+C:\Proyecto c#\Gestion de biblioteca\obj\Debug\Gestion de biblioteca.csproj.AssemblyReference.cache
+C:\Proyecto c#\Gestion de biblioteca\obj\Debug\Gestion de biblioteca.csproj.CoreCompileInputs.cache
+C:\Proyecto c#\Gestion de biblioteca\obj\Debug\Gestion de biblioteca.exe
+C:\Proyecto c#\Gestion de biblioteca\obj\Debug\Gestion de biblioteca.pdb
